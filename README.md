@@ -1,4 +1,4 @@
-# OS：Q4
+﻿# OS：Q4
 
 [![sites](docs/Q.png)](http://qitas.cn)
 
@@ -8,12 +8,12 @@
 
 ## 组成
 
-- M10: connect
-- M11: cms
-- M12: main()
+- M10: Kubernetes
+- M11: Hadoop
+- M12: mAIn
 
 ## 说明
 
-OS-Q4项目针对云端计算平台，包括数据挖掘和模型部署。
+OS-Q4项目针对云计算集群，包括云计算、大数据和机器学习。
 
 ![Q4 Logo](docs/Q4.png)
