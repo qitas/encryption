@@ -1,8 +1,13 @@
-﻿# encryption
+﻿# [encryption](https://github.com/qitas/encryption) 
+
+### qitas@qitas.cn
+---
 
 ## 简介
 
 数字加密算法
+
+---
 
 ## 组成
 
